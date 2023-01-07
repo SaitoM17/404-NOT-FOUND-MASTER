@@ -4,9 +4,9 @@ body {
     padding: 0; 
   }
 
-  /* .container{
+  .container{
     display: grid;
-  }  */
+  } 
   
   .header-nav{
     display: flex;
