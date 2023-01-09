@@ -1,0 +1,31 @@
+.main-container{
+    display: flex;
+    place-content: center;
+    gap: 60px;
+}
+
+.nav-content{
+    margin-top: 40px;
+    margin-left: 47px;
+}
+
+.main-div{
+    width: 216px;
+    height: 108px;
+}
+
+img{
+    width: 539.22px;
+    height: 447.47px;
+    margin-top: 30px;
+}
+
+.description{
+    width: 381px;
+    height: 108px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+
+}
